@@ -50,10 +50,51 @@ The project is divided into two main tasks:
 
 ---
 
-## Requirements
+## 🧠 Tech Stack & Tools
 
-- Python >= 3.10  
-- Jupyter Notebook  
+**Languages & Frameworks**
+
+- Python 3.10+
+
+- Jupyter Notebook
+
+- LangChain / LangGraph
+
+**Machine Learning & NLP**
+
+- OpenAI GPT-4o-mini, GPT-3.5-turbo
+
+- SentenceTransformers / OpenAI Embeddings
+
+- HuggingFace Transformers
+
+**Vector Search & Storage**
+
+- FAISS (Facebook AI Similarity Search)
+
+- In-Memory Docstore
+
+**Document Processing**
+
+- pdfplumber (PDF text, table, and figure extraction)
+
+- json, pandas for data handling
+  
+- OCR for images
+
+**Web Search and APIs**
+
+- SERP API (Web search integration)
+
+- OpenAI API (LLM, embeddings)
+
+**Visualization & Debugging**
+
+- Mermaid (LangGraph flow visualization)
+
+**Environment**
+
+- Kaggle Notebook
 
 ### Python Libraries
 
