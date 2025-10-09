@@ -17,8 +17,10 @@ The project is divided into two main tasks:
 
 ### Task 2 – Dynamic Multi-Agent Query Answering
 - Fully dynamic multi-agent system for processing queries.  
-- Uses **OpenAI LLMs** for high-quality responses and structured output.  
-- Integrates **SERP API** to fetch relevant documents or data from the web.  
+- Uses **OpenAI LLMs** for high-quality responses and structured output.
+- Check States before calling any Agent.
+- Integrates **SERP API** to fetch data from the web.
+- Maintain Trace(agent calling, work history) throughout the Pipeline.
 - Combines local document knowledge (Task 1) with web search for comprehensive answers.
 
 ---
