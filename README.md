@@ -2,7 +2,7 @@
 
 _From Raw Financial Reports to Structured, Reasoned Answers_
 
-This repository contains **Task 1** and **Task 2** of a financial document analysis project, implemented in Python and Jupyter notebooks. The project focuses on extracting structured financial data from documents and enhancing answers using web search.
+This repository contains **Task 1** and **Task 2** of a financial document analysis project, implemented in Python and Jupyter notebooks. The project focuses on extracting structured financial data from documents analyzing and enhancing answers using web search.
 
 ---
 
